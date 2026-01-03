@@ -9,14 +9,5 @@
       "loginMessage": "Enjoy Panel !"
     }
   },
-  "EREN": {
-    "1": {
-      "password": "1",
-      "hwid": "142261F0-1894-11E7-9C43-BC0000740000",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-30 16:49:27",
-      "lastUsed": "2026-01-03 13:24:35",
-      "loginMessage": "Enjoy Panel !"
-    }
-  }
+  "EREN": {}
 }
