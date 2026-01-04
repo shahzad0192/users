@@ -9,9 +9,10 @@
     },
     "wahid": {
       "password": "1",
-      "hwid": "",
+      "hwid": "1981BE00-475D-11E2-A5E8-10604B74BBB5",
       "expiryDate": "No Expiry",
-      "creationDate": "2026-01-04 16:49:06"
+      "creationDate": "2026-01-04 16:49:06",
+      "lastUsed": "2026-01-04 17:08:55"
     }
   },
   "EREN": {}
